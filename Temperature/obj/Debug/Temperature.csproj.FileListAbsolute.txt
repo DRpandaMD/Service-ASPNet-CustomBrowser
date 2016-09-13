@@ -1,0 +1,38 @@
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\ApplicationInsights.config
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Temperature.dll.config
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Temperature.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Temperature.pdb
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.Web.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.ApplicationInsights.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.Web.xml
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\bin\Microsoft.ApplicationInsights.xml
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\obj\Debug\Temperature.dll
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\Temperature\obj\Debug\Temperature.pdb
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\ApplicationInsights.config
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Temperature.dll.config
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Temperature.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Temperature.pdb
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.Web.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.Web.xml
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\obj\Debug\Temperature.dll
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\Temperature\obj\Debug\Temperature.pdb

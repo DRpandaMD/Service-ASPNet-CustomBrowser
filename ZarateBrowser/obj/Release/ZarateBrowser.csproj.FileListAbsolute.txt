@@ -1,0 +1,8 @@
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\bin\Release\ZarateBrowser.exe.config
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\bin\Release\ZarateBrowser.exe
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\bin\Release\ZarateBrowser.pdb
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\obj\Release\ZarateBrowser.Form1.resources
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\obj\Release\ZarateBrowser.Properties.Resources.resources
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\obj\Release\ZarateBrowser.csproj.GenerateResource.Cache
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\obj\Release\ZarateBrowser.exe
+C:\Users\mczarate\Desktop\DistributedSoftwareDev\Temperature\ZarateBrowser\obj\Release\ZarateBrowser.pdb

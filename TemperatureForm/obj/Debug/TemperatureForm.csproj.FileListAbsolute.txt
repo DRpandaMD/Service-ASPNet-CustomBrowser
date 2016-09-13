@@ -1,0 +1,9 @@
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\bin\Debug\TemperatureForm.exe.config
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\bin\Debug\TemperatureForm.exe
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\bin\Debug\TemperatureForm.pdb
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\obj\Debug\TemperatureForm.csprojResolveAssemblyReference.cache
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\obj\Debug\TemperatureForm.Form1.resources
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\obj\Debug\TemperatureForm.Properties.Resources.resources
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\obj\Debug\TemperatureForm.csproj.GenerateResource.Cache
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\obj\Debug\TemperatureForm.exe
+c:\users\mczarate\documents\visual studio 2015\Projects\Temperature\TemperatureForm\obj\Debug\TemperatureForm.pdb
